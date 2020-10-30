@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="ChangeLanguage">Sprache ändern</string>
+    <string name="TrueButton">Richtig</string>
+    <string name="FalseButton">Falsch</string>
+    <string name="correctAnswer">Richtig</string>
+    <string name="wrongAnswer">Falsch</string>
+    <string name="q1">Ist die Sonne ein Stern?</string>
+    <string name="q2">Ist die Hauptstadt Pakistans Islamabad?</string>
+    <string name="q3">Goldfische haben nur eine Erinnerung von drei Sekunden</string>
+    <string name="q4">Stephen Hawking lehnte eine Ritterschaft von der Königin ab</string>
+    <string name="q5">Donald Ducks zweiter Vorname ist Fauntelroy</string>
+</resources>

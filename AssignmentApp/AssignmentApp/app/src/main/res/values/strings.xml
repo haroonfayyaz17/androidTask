@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="ChangeLanguage">Change Language</string>
+    <string name="TrueButton">Correct</string>
+    <string name="FalseButton">Wrong</string>
+    <string name="correctAnswer">True</string>
+    <string name="wrongAnswer">False</string>
+    <string name="q1">Is sun a star?</string>
+    <string name="q2">Is capital of Pakistan is Islamabad?</string>
+    <string name="q3">Goldfish only have a memory of three seconds</string>
+    <string name="q4">Stephen Hawking declined a knighthood from the Queen</string>
+    <string name="q5">Donald Duck’s middle name is Fauntelroy</string>
+
+</resources>

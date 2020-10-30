@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الاحالة</string>
+    <string name="ChangeLanguage">تغيير اللغة</string>
+    <string name="TrueButton">صيح</string>
+    <string name="FalseButton">خطأ</string>
+    <string name="correctAnswer">صيح</string>
+    <string name="wrongAnswer">خطأ</string>
+    <string name="q1">هل الشمس نجمة؟</string>
+    <string name="q2">هل عاصمة باكستان اسلام اباد؟</string>
+    <string name="q3">تمتلك السمكة الذهبية ذاكرة مدتها ثلاث ثوان فقط</string>
+    <string name="q4">رفض ستيفن هوكينج وسام الفروسية من الملكة</string>
+    <string name="q5">الاسم الأوسط لدونالد داك هو Fauntelroy</string>
+</resources>

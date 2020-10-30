@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تفویض ایپ</string>
+    <string name="ChangeLanguage">زبان تبدیل کریں</string>
+    <string name="TrueButton">درست کریں</string>
+    <string name="FalseButton">غلط</string>
+    <string name="correctAnswer">درست</string>
+    <string name="wrongAnswer">غلط</string>
+    <string name="q1">کیا سورج ایک ستارہ ہے؟</string>
+    <string name="q2">کیا پاکستان کا دارالحکومت اسلام آباد ہے؟</string>
+    <string name="q3">گولڈ فش کے پاس صرف تین سیکنڈ کی میموری ہے</string>
+    <string name="q4">اسٹیفن ہاکنگ نے ملکہ کی طرف سے نائٹ ہڈ سے انکار کردیا</string>
+    <string name="q5">ڈونلڈ بتھ کا درمیانی نام فاونٹلروئی ہے</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اسائنمينٽ ايپ</string>
+    <string name="ChangeLanguage">ٻولي تبديل ڪريو</string>
+    <string name="TrueButton">صحيح</string>
+    <string name="FalseButton">غلط آهي</string>
+    <string name="correctAnswer">صحيح</string>
+    <string name="wrongAnswer">غلط</string>
+    <string name="q1">ڇا سج هڪ اسٽار آهي؟</string>
+    <string name="q2">ڇا پاڪستان جو سرمايو اسلام آباد آهي؟</string>
+    <string name="q3">سون جي مڇي صرف ٽن سيڪنڊن جي يادگيري هوندي آهي</string>
+    <string name="q4">اسٽيفن هاڪنگ راڻي کان ڪوٺي جي انڪار ڪيو</string>
+    <string name="q5">ڊونالڊ ڊاک جو وچولي نالو Fauntelroy آهي</string>
+</resources>
